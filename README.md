@@ -9,4 +9,4 @@
 ## Chapter
 **01 [Introduction](https://github.com/waeandway/SPA/blob/master/Chapter/01.md)** <br>
 **02 [A Tiny Imperative Programming Language](https://github.com/waeandway/SPA/blob/master/Chapter/02.md)** <br>
-**03 [Type Analysis]()** <br>
+**03 [Type Analysis](https://github.com/waeandway/SPA/blob/master/Chapter/03.md)** <br>
