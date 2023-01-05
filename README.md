@@ -4,7 +4,7 @@
 
 스틸리언 SSL 연구과제 정리 <br>
 
-<img src="img/SPA_Front.png" width=200><br>
+<img src="img/BookCover.jpeg" width=200><br>
 
 ## Chapter
 **01 [Introduction](https://github.com/waeandway/SPA/blob/master/Chapter/01.md)** <br>
